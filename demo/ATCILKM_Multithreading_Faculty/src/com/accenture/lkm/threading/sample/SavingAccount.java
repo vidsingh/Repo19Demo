@@ -3,7 +3,7 @@ package com.accenture.lkm.threading.sample;
 public class SavingAccount {
 
 	// instance variable
-	float balance = 1000f;
+	float balance = 3000f;
 
 	// method to withdraw the amount from Saving Account
 	//Note - Add synchronization in method signature to show the example of synchronization
